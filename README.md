@@ -28,13 +28,18 @@ The Internet is a true gold mine of data. E-commerce and review sites are brimmi
 
 The Objective/Scope of the Analysis are as following:-
 
--	Application Name and Category
+-	Application Name and Category.
 
--	Size of Application and Type- Free or Paid
+-	Size of Application and Type- Free or Paid.
 
--	User Rating and Number of Reviews
+-	User Rating and Number of Reviews.
 
--	Number of User Downloaded the Application
+-	Number of User Downloaded the Application.
+
+- Most of the application belongs to which category.
+
+-  top Genres types of application.
+
 
 
 3.Source of dataset
@@ -57,12 +62,5 @@ The columns of the dataset are as follows:
 12) Current Version (App)
 13) Android Version (Support)
 
-
-
-
-.	Analysis on dataset (for each analysis)
-
-
-Analysis is a very major tool from which we can resolve many problems and predict many solutions and ways for the betterment of the application. Some key observations at first glance include how the performance of the App can be improved from the reviews obtained and different patterns that could be found to get more business values out of the same. The principal purpose of Data Science is to find patterns within data. It uses various statistical techniques to analyse and draw insights from the data. From data extraction, wrangling and pre-processing, a Data Scientist must scrutinize the data thoroughly.
 
 ----------------------------------------------------------------------The End------------------------------------------------------------
