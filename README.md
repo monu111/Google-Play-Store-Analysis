@@ -4,7 +4,7 @@ In this project i performed data cleaning, and extensive exploratory data analys
 GOOGLE PLAY STORE ANALYSIS
 
 
-1.	Introduction
+1.Introduction
 
 Google Play Store:-
 
@@ -21,7 +21,7 @@ While Google Play is strongly associated with Android, it is not a part of the s
 
 
 
-2.	Objectives/Scope of the Analysis
+2.Objectives/Scope of the Analysis
 
 The Internet is a true gold mine of data. E-commerce and review sites are brimming with a lot of untapped data with a prominent potential to convert into meaningful insights that can help with robust decision making. Here, we explore using data science and machine learning techniques on data retrieved from one such avenue on the internet, the Google Play Store.
 
@@ -37,7 +37,7 @@ The Objective/Scope of the Analysis are as following:-
 -	Number of User Downloaded the Application
 
 
-3.	Source of dataset
+3.Source of dataset
 
 Kaggle is the source of dataset, It consists of in total of 10842 rows and 13 columns. The dataset taken is of Google play store application and is taken from Kaggle , which is the world’s largest community for data scientists to explore, analyse and share data. The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market. It is the web scraped data of 10k Play Store apps for analysing the Android market.
 
